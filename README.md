@@ -1,0 +1,2 @@
+# python_program_without_using_inbuilt_function
+Python program without using inbuilt function
